@@ -20,7 +20,6 @@ h1{
 
 h1 a{
     text-decoration: inherit;
-    color: inherit;
     cursor: pointer;
     color: #138065;
 }
